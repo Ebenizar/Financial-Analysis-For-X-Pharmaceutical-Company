@@ -26,7 +26,7 @@ This data analysis project aims to determine the financial progress of this faci
 
 The first diagram shows  summary of the sales/revenue over the period of three month, while the second diagram shows the revenue generate for the respective month in a tabular form
 
-### Mini dashboard
+### Mini Dashboard
 
 ![X PHARMACY DASHBOARD JPEG (1)](https://github.com/Ebenizar/Financial-Analysis-For-X-Pharmaceutical-Company/assets/155150924/f12d034f-5a49-433f-969a-b37fca7f2cf1)
 
@@ -66,7 +66,7 @@ A summary table was create for the data set of each month, containing the profit
 
 The summary table for the three months were merged together as seen above, and using pivot table, the above dashboard was also created
 
-### Result, Findings and COnclusions
+### Result, Findings and Conclusions
 
 From the dashboard we can see a steep decline in revenue and profit made from the the month of May to the month of June and then we can see a slight increase in the month of July. This all happens because there was a decline in sales or purchases made by customers. 
 
