@@ -42,15 +42,15 @@ The data was provided by the client. The file has been attached to this document
 
 ### Data Cleaning and Preparation 
 
-1. The following process were carried out in the data cleaning phase
+The following process were carried out in the data cleaning phase
 
-2. Removal of empty and unnecessary columns
+1. Removal of empty and unnecessary columns
 
-3. Conversion of irregular naming system to unified uppercase naming system for the products and units columns
+2. Conversion of irregular naming system to unified uppercase naming system for the products and units columns
 
-4. Some columns containing integers could not be identified as numbers, the data was imported to power query and transformed using delimiters to separate the Naira sigh from the values which was the issue, then exported back to excel
+3. Some columns containing integers could not be identified as numbers, the data was imported to power query and transformed using delimiters to separate the Naira sigh from the values which was the issue, then exported back to excel
 
-5. Converting the quantity column to numbers to enable the analysis
+4. Converting the quantity column to numbers to enable the analysis
 
 ### Exploratory Data Analysis
 
